@@ -1,6 +1,6 @@
 name: http_proxy_override
 description: A plugin that get the proxy settings from system.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/littleGnAl/http_proxy_override
 
 environment:
